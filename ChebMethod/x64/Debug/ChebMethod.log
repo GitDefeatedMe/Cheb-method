@@ -1,0 +1,7 @@
+﻿  ChebMethod.cpp
+D:\all_for_lab\CHM\ChebMethod\ChebMethod.cpp(39,5): error C2660: createTau: функция не принимает 0 аргументов
+  D:\all_for_lab\CHM\ChebMethod\ChebMethod.cpp(29,21):
+   см. объявление "createTau"
+  D:\all_for_lab\CHM\ChebMethod\ChebMethod.cpp(39,5):
+  при попытке сопоставить список аргументов "()"
+  
